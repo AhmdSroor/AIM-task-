@@ -1,0 +1,1 @@
+The DL may cause crash as RAM occupy all CPU, so i tried to trim the dataset by take a step size of 1000 on my local machine code to test the model but I didn't change it in this file.
